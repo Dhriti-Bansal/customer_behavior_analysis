@@ -77,10 +77,7 @@ After cleaning, the data was loaded into a SQL database. SQL queries were writte
 A Power BI dashboard was created to present the key findings in a visual and interactive format. The dashboard was designed to make insights easy to understand for both technical and non-technical audiences.
 
 ### 6. Reporting and Presentation
-The final stage of the project involved summarizing the analysis in:
-- A written report
-- A PowerPoint presentation created using Gamma
-
+The final stage of the project involved summarizing the analysis in a written report. 
 This helped communicate the workflow, findings, and recommendations in a professional format.
 
 ---
